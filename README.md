@@ -7,8 +7,8 @@ The system is engineered to handle race conditions and overbooking using Postgre
 ---
 
 ## Live Demo
-* **Frontend (Patient/Admin Portal):** [INSERT YOUR VERCEL LINK HERE]
-* **Backend API:** [INSERT YOUR RENDER LINK HERE]
+* **Frontend (Patient/Admin Portal):** [https://hospital-booking-system-sedy-git-main-srijitaseths-projects.vercel.app]
+* **Backend API:** [https://or-flow-backend.onrender.com]
 
 ---
 
